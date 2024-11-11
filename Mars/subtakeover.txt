@@ -1,0 +1,379 @@
+-----------------
+[ VULNERABLE ]  -  bsp-stg.rcjapan.jp  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  bsp.rcjapan.jp  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  admin.rcjapan.jp  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  sqa03.api.banfield.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  url8089.jobalerts.mars.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  lieudemotest2.mars.com  [ Acquia ]
+[ DISCUSSION ]  -  [Issue #103](https://github.com/EdOverflow/can-i-take-over-xyz/issues/103)
+[ DOCUMENTATION ]  -  
+-----------------
+-----------------
+[ VULNERABLE ]  -  test-marsmilitary.mars.com  [ Acquia ]
+[ DISCUSSION ]  -  [Issue #103](https://github.com/EdOverflow/can-i-take-over-xyz/issues/103)
+[ DOCUMENTATION ]  -  
+-----------------
+-----------------
+[ VULNERABLE ]  -  lieudemotest1.mars.com  [ Acquia ]
+[ DISCUSSION ]  -  [Issue #103](https://github.com/EdOverflow/can-i-take-over-xyz/issues/103)
+[ DOCUMENTATION ]  -  
+-----------------
+-----------------
+[ VULNERABLE ]  -  release-notes.petpaw.com  [ Gemfury ]
+[ DISCUSSION ]  -  [Issue #154](https://github.com/EdOverflow/can-i-take-over-xyz/issues/154)
+[ DOCUMENTATION ]  -  [Article](https://khaledibnalwalid.wordpress.com/2020/06/25/gemfury-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  mkt.royalcanin.com.br  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  161779.mms.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  gmvet-vs.royalcanin.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  open.stg.weu.royalcanin.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  www.cxm360.royalcanin.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  nginx.royalcanin.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  openap.royalcanin.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  open.royalcanin.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  api.webshop.royalcanin.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  nginx-academy.uat.royalcanin.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  openus.royalcanin.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  cd-academy-prd-weu-01.royalcanin.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  shopstg.royalcanin.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  proshop.royalcanin.co.uk  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  www.portal.royalcanin.co.uk  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  portal.royalcanin.co.uk  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  dvet.petpaw.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  trk.mms.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ VULNERABLE ]  -  test.vpnsmtp.wiszaceogrody.loevgaarddandomainfoundationbundle.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  lb.smtp.wiszaceogrody.loevgaarddandomainfoundationbundle.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  smtp.wiszaceogrody.loevgaarddandomainfoundationbundle.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  gistrategies.034149.loevgaarddandomainfoundationbundle.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  tc.lb.smtp.wiszaceogrody.loevgaarddandomainfoundationbundle.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  test.smtp.wiszaceogrody.loevgaarddandomainfoundationbundle.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  com.loevgaarddandomainfoundationbundle.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle.prodabcdefghij211.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  imexgroup.loevgaarddandomainfoundationbundle.abcdefghij211-lax.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  preview.ns62.loevgaarddandomainfoundationbundle.abcdefghij211.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  imexgroupghcpi.loevgaarddandomainfoundationbundle.abcdefghij211.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  compute.loevgaarddandomainfoundationbundle.abcdefghij211.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  ecolandia.loevgaarddandomainfoundationbundle.abcdefghij211.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  ns62.loevgaarddandomainfoundationbundle.abcdefghij211.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle.www.marioindustrialrags.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  cms1-imexgroup.loevgaarddandomainfoundationbundle.abcdefghij211.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  faq.loevgaarddandomainfoundationbundle.abcdefghij211.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  com.loevgaarddandomainfoundationbundle.abcdefghij211.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle.abcdefghij211.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  eurovis.loevgaarddandomainfoundationbundle.staging.vetportal.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  com.loevgaarddandomainfoundationbundle.abcdefghij211.vetportal.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  ftp.portfolio.loevgaarddandomainfoundationbundle.resnet.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle.abcdefghij211.www.training.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle.ftp.portfolio.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  training.loevgaarddandomainfoundationbundle.h1666373.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle-www.kumaara.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle-www.portal.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  www.training.loevgaarddandomainfoundationbundle.h1666373.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle.resnet.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  portfolio.loevgaarddandomainfoundationbundle.resnet.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle.diztechb.vh86.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  staging.loevgaarddandomainfoundationbundle.abcdefghij211.com.pe.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  vetportal.loevgaarddandomainfoundationbundle.diztechb.vh86.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundlepeopleicon.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle-region.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  repository.loevgaarddandomainfoundationbundle.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  localhost.loevgaarddandomainfoundationbundle.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle.eurovis.smtp02.a.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  abcdefghij211.loevgaarddandomainfoundationbundle.breedbuzz.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  tc.test.smtp.wiszaceogrody.loevgaarddandomainfoundationbundle.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle.breedbuzz.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  imexgroup.loevgaarddandomainfoundationbundle.abcdefghij211.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  www.portal.loevgaarddandomainfoundationbundle.pc133151.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle.peopleicon48.pc133151.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle.abcdefghij211.ru.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle.pc133151.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  joulemeter.ru.loevgaarddandomainfoundationbundle.w254125.ppp.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  loevgaarddandomainfoundationbundle.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ VULNERABLE ]  -  italika.demo.royalcanin.co.uk  [ Uptimerobot ]
+[ DISCUSSION ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ DOCUMENTATION ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
